@@ -9,7 +9,7 @@ export default class Weather extends Component {
               colors={["#00C6FB", "#005BEA"]} 
               style={styles.container}>
               <View style={styles.upper}>
-                <Text>Icon here!</Text>
+                <Text>Hi!</Text>
                 <Text style={styles.temp}>35℃</Text>
               </View>
               <View style={styles.lower}>
